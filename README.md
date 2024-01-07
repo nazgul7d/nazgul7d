@@ -5,4 +5,4 @@ My name is Nazgul. I'm an experienced Network Engineer transitioning to Software
 - 🌍  I'm based in Canada!
 - 👯 I’m open to collaborate on personal projects
 - 📫 How to reach me: nazgul7d@gmail.com
-- 🌱 Skills: Python, Django, SQL, CSS, HTML, JavaScript, Node.js
+- 🌱 Skills: Python, Django, SQL, CSS, HTML, JavaScript
