@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Nazgul. I'm an experienced Network Engineer transitioning to Software Development.
+My name is Nazgul. I'm an experienced Senior Network Engineer transitioning to Software Development.
 
 - 🌍  I'm based in Canada!
 - 👯 I’m open to collaborate on personal projects
